@@ -1,0 +1,14 @@
+C:\Programação\C#\BuscaSequencialVetor\bin\Debug\net8.0\BuscaSequencialVetor.exe
+C:\Programação\C#\BuscaSequencialVetor\bin\Debug\net8.0\BuscaSequencialVetor.deps.json
+C:\Programação\C#\BuscaSequencialVetor\bin\Debug\net8.0\BuscaSequencialVetor.runtimeconfig.json
+C:\Programação\C#\BuscaSequencialVetor\bin\Debug\net8.0\BuscaSequencialVetor.dll
+C:\Programação\C#\BuscaSequencialVetor\bin\Debug\net8.0\BuscaSequencialVetor.pdb
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\BuscaSequencialVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\BuscaSequencialVetor.AssemblyInfoInputs.cache
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\BuscaSequencialVetor.AssemblyInfo.cs
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\BuscaSequencialVetor.csproj.CoreCompileInputs.cache
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\BuscaSequencialVetor.dll
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\refint\BuscaSequencialVetor.dll
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\BuscaSequencialVetor.pdb
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\BuscaSequencialVetor.genruntimeconfig.cache
+C:\Programação\C#\BuscaSequencialVetor\obj\Debug\net8.0\ref\BuscaSequencialVetor.dll
